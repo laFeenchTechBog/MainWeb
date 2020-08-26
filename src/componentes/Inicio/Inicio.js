@@ -9,13 +9,13 @@ import Aliados from "../../img/logos.png";
 import './Inicio.css'
 
 export default function Inicio() {
-    const [data, setData] = useState([])
+   // const [data, setData] = useState([])
     useEffect(() => {
         client
             .getEntries()
             .then((res) => {
-                console.log(res.items[1].fields.titulo, data)
-                setData(res.items)
+                console.log(res.items[1].fields.titulo)
+                //setData(res.items)
             })
             .catch(console.error())
     }, [])
