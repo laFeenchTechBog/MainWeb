@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { client } from '../../context/AppContext'
+//import { client } from '../../context/AppContext'
 import ImagenInicio from '../../img/PHOTOSITE-min.jpg'
 import Logo from '../../img/FTB_LOGOVILLE_LOGO_BOGOTA-(1).png'
 import facebook from '../../img/facebook.svg'
@@ -10,15 +10,15 @@ import './Inicio.css'
 
 export default function Inicio() {
    // const [data, setData] = useState([])
-    useEffect(() => {
-        client
-            .getEntries()
-            .then((res) => {
-                console.log(res.items[1].fields.titulo)
-                //setData(res.items)
-            })
-            .catch(console.error())
-    }, [])
+    // useEffect(() => {
+    //     client
+    //         .getEntries()
+    //         .then((res) => {
+    //             console.log(res.items[1].fields.titulo)
+    //             //setData(res.items)
+    //         })
+    //         .catch(console.error())
+    // }, [])
 
     return (
         <>
