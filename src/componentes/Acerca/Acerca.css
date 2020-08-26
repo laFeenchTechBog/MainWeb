@@ -1,0 +1,21 @@
+.Acerca__container{
+    padding: 50px  22%;
+    font-family: Biotif;
+}
+.Acerca__header{
+    width: 100%;
+    height: 500px;
+    margin-top: 80px;
+
+}
+.Acerca__container--title{
+    font-family: Biotif-title;
+    color: #eb2545;
+    font-size: 35px;
+}
+.Acerca__container--span{
+    color: #eb2545;
+    font-weight: 900;
+    font-size: 18px;
+}
+

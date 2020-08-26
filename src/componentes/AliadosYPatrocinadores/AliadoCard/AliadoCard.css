@@ -1,0 +1,49 @@
+.Aliadocard{
+    width: 300px;
+    font-family:  Biotif;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 2px 2px 2px gray, -2px -2px 2px gray;
+    transition: all .5s;
+}
+.Aliadocard__NombreEmpresa{
+    color: #0d0040;
+    font-size: 18px;
+    font-family:  Biotif-title;
+}
+
+.Aliadocard img{
+
+ max-width: 100%;
+ margin: auto;   
+}
+
+.Aliadocard:hover{
+    box-shadow: 2px 2px 6px gray, -2px -2px 6px gray;
+}
+
+.Aliadocard button{
+    background: #eb2545;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    font-family:  Biotif-medium;
+    transition: all .5s; 
+}
+
+.Aliadocard-containerButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Aliadocard button:hover{
+    padding: 10px 35px;
+    box-shadow: 2px 2px 4px gray, -2px -2px 4px gray;
+}
+

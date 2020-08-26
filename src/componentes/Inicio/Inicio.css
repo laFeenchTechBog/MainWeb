@@ -1,0 +1,82 @@
+
+.Inicio{
+    padding: 0 22%;
+}
+
+.ImagenInicio{
+    width: 45%;
+    height: 550px;
+    margin-left: 0px;
+}
+.Inicio--primerBloque{
+    padding-top: 100px;
+    display: flex;
+   
+}
+
+.Inicio--primerBloque__container{
+    margin-left: 5%;
+    margin-top: 15%;
+    font-family: Biotif-medium;
+}
+
+.Inicio--primerBloque__img{
+    width: 20%;
+}
+.Inicio--primerBloque__img--title{
+    
+    color: #eb2545;
+    font-family: Biotif-title;
+    font-size: 20px;
+    
+}
+
+.home__banner--gradiente{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to right, #b62153 0%, #da3431 100%);
+    position: relative;
+    margin-top: 50px;
+   
+}
+.home__banner--gradiente::before{
+    content: url("../../img/origami-bg1.svg");
+    position: absolute;
+    top: -3px;
+}
+
+.home__banner--gradiente::after{
+    content: url("../../img/descarga.svg");
+    position: absolute;
+    top: -50px;
+    right: 0;
+}
+
+.home__banner--gradiente--content{
+    padding: 2% 22%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.home__banner--gradiente--Title{
+    color: white;
+    font-family: Biotif-title;
+    font-size: 40px;
+}
+
+
+.redes{
+    background: rgb(255, 254, 254) ;
+    height: 100px;
+    padding: 10px;
+    border-radius: 15px;
+    width: fit-content;
+    margin: 0 10px;
+}
+
+.redes img{
+    width: 50px;
+}
+.redes-container{
+ display: flex;
+}

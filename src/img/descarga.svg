@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="349px" height="118px" viewBox="0 0 349 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 35</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.5%" y="-22.3%" width="115.0%" height="151.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.351845562 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-35" filter="url(#filter-1)" transform="translate(12.000000, 9.000000)">
+            <polygon id="Fill-1" fill="#940812" points="276.8733 93.1551 297.0053 74.5721 320.8303 30.7751"></polygon>
+            <polygon id="Fill-2" fill="#E94E57" points="256.0608 47.7456 320.8298 30.7756 264.0088 25.3806"></polygon>
+            <polygon id="Fill-3" fill="#D73334" points="256.0608 47.7456 276.8728 93.1556 320.8298 30.7756"></polygon>
+            <polygon id="Fill-4" fill="#E94E57" points="202.2805 6.6543 233.8225 6.4403 207.2895 29.9773"></polygon>
+            <polygon id="Fill-5" fill="#940812" points="202.2815 6.6543 210.6675 15.9513 207.2895 29.9773"></polygon>
+            <polygon id="Fill-6" fill="#D43236" points="202.2805 6.6543 233.8225 6.4403 210.6675 15.9513"></polygon>
+            <polygon id="Fill-7" fill="#A70E19" points="49.8264 55.375 71.4774 32.437 70.1404 67.881"></polygon>
+            <polygon id="Fill-8" fill="#940812" points="49.8264 55.375 62.3404 55.743 70.1404 67.881"></polygon>
+            <polygon id="Fill-9" fill="#D2303A" points="49.8264 55.375 71.4774 32.437 62.3404 55.743"></polygon>
+            <g id="Group-34" transform="translate(0.000000, 0.155100)">
+                <path d="M14.0417,18.1032 C13.6027,18.1132 6.9347,17.9952 6.9347,17.9952 L21.9427,1.0102 L14.0417,18.1032 Z" id="Fill-10" fill="#E94E57"></path>
+                <path d="M21.0618,11.6916 C20.7548,11.7946 13.9298,14.7946 13.9298,14.7946 L8.0678,17.7136 L29.3048,23.7256 L21.0618,11.6916 Z" id="Fill-12" fill="#B81722"></path>
+                <polygon id="Fill-14" fill="#CF2F3B" points="29.0412 23.76 22.1082 0.845 13.6672 14.828"></polygon>
+                <polygon id="Fill-16" fill="#D02F3A" points="25.571 75.1096 0 87.4276 1.242 68.3796"></polygon>
+                <polygon id="Fill-18" fill="#A70E19" points="1.2434 68.3791 5.6664 77.3681 0.0004 87.4281"></polygon>
+                <polygon id="Fill-20" fill="#DE3844" points="5.5818 77.4533 1.1588 68.4643 25.4868 75.1933"></polygon>
+                <polygon id="Fill-22" fill="#E94E57" points="89.9241 19.007 116.4011 25.142 132.0371 28.765 112.3941 50.2"></polygon>
+                <polygon id="Fill-24" fill="#D23038" points="112.3943 50.1994 115.7143 35.3064 132.0373 28.7654"></polygon>
+                <polygon id="Fill-26" fill="#940812" points="115.7141 35.3064 112.3941 50.1994 89.9241 19.0074"></polygon>
+                <path d="M178.5539,71.5891 C178.7809,71.1041 182.5149,63.8831 182.5149,63.8831 L192.9509,89.4601 L178.5539,71.5891 Z" id="Fill-28" fill="#A70E19"></path>
+                <path d="M182.1819,82.634 C182.2379,82.243 182.6499,73.167 182.6499,73.167 L182.6289,65.184 L164.5799,85.13 L182.1819,82.634 Z" id="Fill-30" fill="#940812"></path>
+                <polygon id="Fill-32" fill="#D33136" points="164.3381 84.8889 193.1161 89.7039 182.4071 72.9259"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

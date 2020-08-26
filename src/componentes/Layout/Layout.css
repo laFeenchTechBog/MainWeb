@@ -1,0 +1,16 @@
+@font-face{
+    font-family: Biotif-title;
+    src: url(../../fonts/Biotif-Black.ttf)
+}
+@font-face{
+    font-family: Biotif-ligth;
+    src: url(../../fonts/Biotif-Light.ttf)
+}
+@font-face{
+    font-family: Biotif-medium;
+    src: url(../../fonts/Biotif-Medium.ttf)
+}
+@font-face{
+    font-family: Biotif-semiBold;
+    src: url(../../fonts/Biotif-SemiBold.ttf)
+}

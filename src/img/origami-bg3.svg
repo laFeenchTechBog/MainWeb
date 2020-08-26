@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="481px" height="151px" viewBox="0 0 481 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(240.000000, 75.353218) scale(-1, -1) translate(-240.000000, -75.353218) ">
+            <polygon id="Fill-1" fill="#1B1E27" opacity="0.36571558" points="150.519786 0 31.2718116 55.5104553 129.607761 44.9602512"></polygon>
+            <polygon id="Fill-2" fill="#07080D" opacity="0.36571558" points="408.414292 0 394.850713 48.2260597 479.999849 0"></polygon>
+            <polygon id="Fill-3" fill="#2A2D33" opacity="0.36571558" points="364.709727 0 394.851014 48.2260597 408.414593 0"></polygon>
+            <polygon id="Fill-4" fill="#FFFFFF" points="0 0 0 149.999623 31.2715856 55.5104553"></polygon>
+            <polygon id="Fill-5" fill="#000000" opacity="0.36571558" points="150.519786 0 129.607761 44.9602512 160.844684 77.3199372"></polygon>
+            <polygon id="Fill-6" fill="#3D404E" opacity="0.36571558" points="31.2715856 55.5100031 160.844458 77.3194851 129.607535 44.9605526"></polygon>
+            <polygon id="Fill-7" fill="#1B1E27" opacity="0.36571558" points="0 149.999623 55.644584 116.947441 31.2715856 55.5104553"></polygon>
+            <polygon id="Fill-8" fill="#3D404E" opacity="0.36571558" points="31.2715856 55.5100031 111.693815 128.525011 55.644584 116.947743"></polygon>
+            <polygon id="Fill-9" fill="#07080D" opacity="0.36571558" points="0 149.999623 111.693061 128.52471 55.644584 116.947441"></polygon>
+            <polygon id="Fill-10" fill="#1B1E27" opacity="0.36571558" points="31.2715856 55.5100031 87.9123391 82.1345557 160.844458 77.3194851"></polygon>
+            <polygon id="Fill-11" fill="#1B1E27" opacity="0.36571558" points="87.9123391 82.1349325 111.693815 128.524634 31.2715856 55.5103799"></polygon>
+            <polygon id="Fill-12" fill="#07080D" opacity="0.36571558" points="160.844534 77.3197865 111.693137 128.525312 87.9124144 82.1348571"></polygon>
+            <polygon id="Fill-15" fill="#1B1E27" opacity="0.36571558" points="176.232942 38.66027 201.946474 31.6486531 150.520163 0.000301412873"></polygon>
+            <polygon id="Fill-16" fill="#1B1E27" opacity="0.36571558" points="160.844383 77.3198619 176.233017 38.6606468 150.519485 -7.53532182e-05"></polygon>
+            <polygon id="Fill-17" fill="#000000" opacity="0.36571558" points="160.844534 77.3197865 201.9467 31.6482009 176.233168 38.6598179"></polygon>
+            <g id="Group-5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5">
+                <polygon id="Fill-13" points="150.519786 0 201.946851 31.6483516 190.643868 0"></polygon>
+                <polygon id="Fill-14" points="190.643567 0 201.946549 31.6483516 208.728339 0"></polygon>
+                <polygon id="Fill-18" points="80.3770926 0 31.2716609 55.5104553 150.519636 0"></polygon>
+                <polygon id="Fill-19" points="0 0 31.2715856 55.5104553 80.3770173 0"></polygon>
+                <polygon id="Fill-20" points="208.728565 0 201.946776 31.6483516 319.256666 0"></polygon>
+            </g>
+            <polygon id="Fill-21" fill="#25282F" opacity="0.36571558" points="319.256816 0 201.946926 31.6483516 263.288214 54.4841444"></polygon>
+            <polygon id="Fill-22" fill="#090608" opacity="0.36571558" points="319.256816 0 263.288214 54.4841444 284.446644 94.9450549"></polygon>
+            <polygon id="Fill-23" fill="#1B1E27" opacity="0.36571558" points="201.946625 31.6482763 284.446342 94.9449796 263.287912 54.4840691"></polygon>
+            <polygon id="Fill-24" fill="#3D404E" opacity="0.36571558" points="201.946625 31.6482763 199.686028 71.082876 160.844458 77.3198619"></polygon>
+            <polygon id="Fill-25" fill="#1B1E27" opacity="0.36571558" points="201.946625 31.6482763 284.446342 94.9449796 199.686028 71.082876"></polygon>
+            <polygon id="Fill-26" fill="#07080D" opacity="0.36571558" points="160.844534 77.3197865 284.446418 94.9449042 199.686104 71.0835542"></polygon>
+            <polygon id="Fill-27" fill="#3D404E" opacity="0.36571558" points="319.256816 0 284.446644 94.9450549 327.318857 45.2119309"></polygon>
+            <polygon id="Fill-28" fill="#07080D" opacity="0.36571558" points="394.850863 48.2259843 284.446342 94.9449796 327.319309 45.2118556"></polygon>
+            <polygon id="Fill-29" fill="#1B1E27" opacity="0.36571558" points="327.319008 45.212157 394.850562 48.2262857 319.256967 0.000226059655"></polygon>
+            <polygon id="Fill-30" fill="#2D2F36" opacity="0.36571558" points="319.256816 0 394.850411 48.2260597 364.709878 0"></polygon>
+        </g>
+    </g>
+</svg>

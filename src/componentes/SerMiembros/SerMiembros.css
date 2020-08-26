@@ -1,0 +1,26 @@
+.Sermiembros__main--Content{
+    margin-top: 100px ;
+    padding: 0 22%;
+    font-family: Biotif;
+}
+.Sermiembros__main--Parte1{
+    display: flex;
+}
+.Sermiembros__main--img{
+    width: 60%;
+}
+.Sermiembros__main--text{
+    padding: 4%;
+}
+.Sermiembros__main--title{
+    font-family: Biotif-title;
+    color: #eb2545;
+    font-size: 35px;
+}
+.Sermiembros__main--span{
+    color: #eb2545;
+}
+.Sermiembros__main--italic{
+    color: #7c7778;
+    font-size: 15px;
+}

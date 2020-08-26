@@ -1,0 +1,38 @@
+.Aliados__Content{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#marcas{
+    display: flex;
+    margin: 0 10%;
+    position: relative;
+    animation: movienietoMarcas 60s infinite linear alternate;
+    height: 300px;
+}
+#marcas2{
+    display: flex;
+    margin: 0 10%;
+    position: relative;
+    animation: movienietoMarcas2 60s infinite linear alternate;
+    height: 300px;
+}
+
+#container{
+    max-width: 80vw;
+    overflow-x: hidden;
+}
+
+@keyframes movienietoMarcas{
+    from { margin-left: 0%;}
+    to   { margin-left: -180%;;}
+  }
+
+  @keyframes movienietoMarcas2{
+    from   { margin-left: -180%;}
+    to { margin-left: 0%;}
+ 
+  }
