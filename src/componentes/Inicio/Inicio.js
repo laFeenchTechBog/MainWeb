@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect } from 'react'
 import { client } from '../../context/AppContext'
 import ImagenInicio from '../../img/PHOTOSITE-min.jpg'
 import Logo from '../../img/FTB_LOGOVILLE_LOGO_BOGOTA-(1).png'
