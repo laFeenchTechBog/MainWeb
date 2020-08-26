@@ -4,7 +4,7 @@ import './AliadoCard.css'
 export default function AliadoCard(props) {
     return (
         <div className="Aliadocard">
-            <img src={props.imgUrl} />
+            <img src={props.imgUrl} alt="logo" />
             <p className="Aliadocard__NombreEmpresa"> {props.nombreEmpresa} </p>
             <p> {props.descripcion} </p>
             <div className="Aliadocard-containerButton">

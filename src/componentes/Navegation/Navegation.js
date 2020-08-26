@@ -9,7 +9,7 @@ import "./Navegation.css"
 export default function Navegation() {
     return (
         <div className="Navegation" >
-            <Link className="link" to="/"><img src={logo} /></Link>
+            <Link className="link" to="/"><img src={logo} alt="img" /></Link>
             <Link className="link" to="/Acerca">Acerca</Link>
             <Link className="link" to="/Nuestros-Servicios">Nuestros Servicios</Link> 
             <Link className="link" to="/Ser-miembros">Ser Miembros</Link> 

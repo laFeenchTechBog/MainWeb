@@ -15,7 +15,7 @@ export default function Inicio() {
             .getEntries()
             .then((res) => {
                 console.log(res.items[1].fields.titulo)
-                setData(res.items)
+                setData(res.items, data)
             })
             .catch(console.error())
     }, [])
