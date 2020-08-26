@@ -14,8 +14,8 @@ export default function Inicio() {
         client
             .getEntries()
             .then((res) => {
-                console.log(res.items[1].fields.titulo)
-                setData(res.items, data)
+                console.log(res.items[1].fields.titulo, data)
+                setData(res.items)
             })
             .catch(console.error())
     }, [])
@@ -34,6 +34,7 @@ export default function Inicio() {
                             <img
                                 className="Inicio--primerBloque__img"
                                 src={Logo}
+                                alt=""
                             />
                             <p className="Inicio--primerBloque__img--title">
                                 ¿Qué es La FRENCH TECH?
