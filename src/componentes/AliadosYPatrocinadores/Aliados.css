@@ -1,9 +1,8 @@
 .Aliados__Content{
     margin-top: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    padding: 0 22%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 #marcas{

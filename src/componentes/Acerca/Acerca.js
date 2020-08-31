@@ -1,5 +1,7 @@
 import React from 'react'
 import AcercaHeader from '../../img/join-us-bg.jpg'
+import logo from '../../img/Logo fondo blanco.png'
+import imagenDescripción from '../../img/miembro.jpg'
 import './Acerca.css'
 
 export default function Acerca() {
@@ -10,18 +12,39 @@ export default function Acerca() {
                 src={AcercaHeader}
                 alt="Acerca Header"
             />
+
+            <div className="Acerca__header--title">
+                {' '}
+                <span>
+                    {' '}
+                    <img src={logo} alt="logo" />{' '}
+                </span>{' '}
+                ACERCA DE{' '}
+                <span className="Acerca__header--title-pink">
+                    LA FRENCH TECH BOGOTÁ
+                </span>{' '}
+            </div>
+
             <div className="Acerca__container">
-                <p>
-                    <span className="Acerca__container--span">
-                        La French Tech Bogotá{' '}
-                    </span>{' '}
-                    nació en Mayo 2020 y tiene como ambición reunir una
-                    comunidad French Tech en Bogotá y en Colombia en general. En
-                    su desarrollo, La French Tech Bogotá desea facilitar
-                    intercambios entre miembros, organizar eventos y participar
-                    de manera activa en el desarrollo del ecosistema de empresas
-                    de tecnología en Colombia y en Francia.
-                </p>
+                <div className="Acerca__container--firstContainer">
+                    <p>
+                        <span className="Acerca__container--span">
+                            La French Tech Bogotá
+                        </span>{' '}
+                        nació en Mayo 2020 y tiene como ambición reunir una
+                        comunidad French Tech en Bogotá y en Colombia en
+                        general. En su desarrollo, La French Tech Bogotá desea
+                        facilitar intercambios entre miembros, organizar eventos
+                        y participar de manera activa en el desarrollo del
+                        ecosistema de empresas de tecnología en Colombia y en
+                        Francia.
+                    </p>
+                    <img src={imagenDescripción} alt="imagen descripcion" />
+                </div>
+                <div className="Acerca__container--secondContainer" >
+
+                </div>
+
                 <p className="Acerca__container--title">
                     Algunas de nuestras misiones:
                 </p>

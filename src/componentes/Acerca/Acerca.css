@@ -1,12 +1,12 @@
 .Acerca__container{
-    padding: 50px  22%;
+    padding: 150px  22%;
     font-family: Biotif;
 }
 .Acerca__header{
     width: 100%;
     height: 500px;
     margin-top: 80px;
-
+    background: linear-gradient(to right, #b62153 0%, #da3431 100%);
 }
 .Acerca__container--title{
     font-family: Biotif-title;
@@ -19,3 +19,35 @@
     font-size: 18px;
 }
 
+.Acerca__header--title{
+    font-family: Biotif-title;
+    width: 22%;
+    height: 30vh;
+    margin-top: -250px;
+    background-color: #eb2545;
+    position: absolute;
+    margin-left: 15%;
+    font-size: 50px;
+    padding: 50px;
+    -webkit-text-stroke: 2px white;
+    color: transparent;
+  
+
+}
+.Acerca__header--title img{
+    width: 80px;
+    border-radius: 50%;
+}
+.Acerca__header--title-pink{
+    color: white; 
+}
+.Acerca__container--firstContainer{
+    display: flex;
+}
+.Acerca__container--firstContainer img{
+    width: 50%;
+}
+.Acerca__container--firstContainer p{
+    padding: 45px;
+    margin-top: 180px;
+}
