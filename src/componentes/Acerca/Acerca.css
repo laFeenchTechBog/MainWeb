@@ -51,3 +51,45 @@
     padding: 45px;
     margin-top: 180px;
 }
+.Acerca__container--secondContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin: 30px 0;
+}
+.Acerca__container--barratitulo{
+    background: #eb2545;
+    width: 300px;
+    height: 70px;
+    margin-left: -55px;
+}
+.Acerca__container--textotitulo{
+    margin-top: -50px;
+    margin-left: 65px;
+    color: white;
+    font-family: Biotif-title;
+}
+
+.Acerca__container--textotitulo span{
+
+    color: #eb2545;
+}
+.Acerca__container--titulo{
+    margin: 50px 0;
+}
+.Acerca__container--tercerContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    margin: 0 10%; 
+}
+.Acerca__container--textotituloMision{
+    margin-top: -50px;
+    margin-left: 85px;
+    color: white;
+    font-family: Biotif-title;
+}
+.Acerca__container--textotituloMision span{
+
+    color: #eb2545;
+}

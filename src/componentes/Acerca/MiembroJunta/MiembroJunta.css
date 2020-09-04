@@ -1,0 +1,33 @@
+.MiembroJunta__container{
+    display:flex;
+}
+.MiembroJunta__container--img{
+    width: 200px;
+    background: #0d0040;
+}
+
+.MiembroJunta__container--img img{
+    margin-bottom: -5px;
+}
+.MiembroJunta__container--text{
+    margin: 60px;
+    width: 160px;
+    
+}
+.MiembroJunta__container--text--primerTexto{
+    color:#eb2545;
+    font-weight: 900;
+    font-size: 25px;
+}
+.MiembroJunta__container--text--segundoTexto{
+    color:#0d0040;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: -15px;
+}
+.MiembroJunta__container--text--terceroTexto{
+    color:#0d0040;
+    font-weight: 900;
+    font-size: 17px;
+    margin-top: -15px;
+}

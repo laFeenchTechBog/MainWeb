@@ -1,0 +1,9 @@
+.mision__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mision__content p{
+    padding:0 15px;
+    font-family: Biotif;
+}
